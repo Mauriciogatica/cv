@@ -1,0 +1,27 @@
+h1 {
+    font-style: oblique;
+    font-family: 'Heebo', sans-serif;
+    color: brown;
+    font-size: 60px;
+    text-align: center;
+}
+img {
+    border-radius: 75px;
+}
+h2 {
+    font-size: 40px;
+    font-family: 'Heebo', sans-serif;
+    margin-top: 5px;
+    
+}
+h3{
+    font-weight: bold;
+    font-size: 25px;
+    margin: auto;
+
+
+}
+p {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    }
